@@ -8,7 +8,19 @@
 
 <br/><br/><br/>
 
-## 계기
+## 문제 상황
+과거부터 현재까지 기업들간의 소통은 중요한 과정이었습니다.<br/>
+특히나 소통의 속도와 정확성, 신뢰는 중요한 문제로 대두되었습니다. 저는 이런 불편사항을 인식하고, 이를 개선하고자 ***Routing Network System***을 만들었습니다😊.
+
+<center>
+  <img src="https://github.com/user-attachments/assets/2c1183b1-d4ab-477d-bc68-c9410538783f" width="680" height="196" alt="image">
+</center>
+  
+<br/><br/><br/>
+
+## 해결 방법
+
+
 <br/><br/><br/>
 
 ## Protocol 소개
