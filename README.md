@@ -12,9 +12,9 @@
 과거부터 현재까지 기업들간의 소통은 중요한 과정이었습니다.<br/>
 특히나 소통의 속도와 정확성, 신뢰는 중요한 문제로 대두되었습니다. 저는 이런 불편사항을 인식하고, 이를 개선하고자 ***Routing Network System***을 만들었습니다😊.<br/>
 
-<center>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/2c1183b1-d4ab-477d-bc68-c9410538783f" width="680" height="196" alt="image">
-</center>
+</p>
   
 <br/><br/><br/>
 
@@ -24,6 +24,11 @@
 LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 방법론들이 존재했고, 저는 ***Functional Calling*** 기술을 활용했습니다.<br/>
 
 각 회사의 데이터베이스와 페르소나를 넣으면 회사마다 고유한 Agent가 생기고, 이를 활용해 다른 회사의 Agent와 대화할 수 있습니다.<br/>
+
+<p align="center">
+  <img width="421" height="348" alt="image" src="https://github.com/user-attachments/assets/b51205dc-1698-4e65-974a-78d7c71ae5a5">
+</p>
+
 <br/><br/><br/>
 
 ## Protocol 소개
@@ -31,7 +36,7 @@ LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 �
 <br/><br/><br/>
 
 ## 기대효과
-비록 이 시스템은 지금 간단한 프로토콜로 머물러 있지만, 틀을 깨고 새로운 네트워크 장을 개척하는 지표가 될 것입니다.
+***Routing Network System***은 간단한 프로토콜로 시작했지만, 틀을 깨고 새로운 네트워크 장을 개척하는 축이 될 것입니다.
 
 <br/><br/><br/>
 
