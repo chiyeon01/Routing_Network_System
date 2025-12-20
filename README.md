@@ -50,7 +50,7 @@ LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 �
 
 <br/><br/><br/>
 
-## Protocol
+## 프로토콜
 프로토콜의 기본적인 모습은 Streamlit을 이용하여 구축했습니다.<br/>
 아래 사진은 프로토콜이 작동하는 과정을 나타냅니다. 기본적으로 두 개 이상의 Agent를 생성해야 원하는 대로 작동합니다. 각 Agent는 자신이 속해있는 기업의 페르소나와 정보를 입력받습니다. 정보는 PDF 문서로 입력 받습니다.<br/>
 입력받은 PDF는 후에 Agent간의 상호 작용에서 ***Functional Calling***을 이용해 참조함으로써 답변의 신뢰성을 높이게 됩니다.
@@ -98,7 +98,6 @@ streamlit run main.py
 <br/>
 
 <img width="1452" height="249" alt="image" src="https://github.com/user-attachments/assets/d0fbf0e7-3fc1-4e4d-9bcc-287fd70ec23a" />
-
 
 <br/><br/><br/>
 
