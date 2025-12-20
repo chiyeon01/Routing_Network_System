@@ -86,13 +86,28 @@ LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 �
 ## 📽️ Project Slides
 <details>
   <summary>여기를 클릭하여 슬라이드를 확인하세요!</summary>
-  
   <br />
-  <img src="슬라이드1_경로" width="100%">
-  <img src="슬라이드2_경로" width="100%">
-  <img src="슬라이드3_경로" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/1.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/2.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/3.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/4.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/5.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/6.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/7.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/8.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/9.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/10.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/11.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/12.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/13.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/14.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/15.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/16.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/17.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/18.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/19.jpg" width="100%">
   <br />
   <p align="center">
-    <a href="https://www.canva.com/design/DAGxmiVe42Y/EvFHh2YEhw-YAZhYEEYcdg/edit?utm_content=DAGxmiVe42Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗 Canva에서 고화질로 보기</a>
+    <a href="https://www.canva.com/design/DAGxmiVe42Y/EvFHh2YEhw-YAZhYEEYcdg/edit?utm_content=DAGxmiVe42Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗 PPT 원본 링크</a>
   </p>
 </details>
