@@ -2,7 +2,7 @@
 
 ## 개요
 ***Routing Network System***은 기업들의 Agent가 자신만의 페르소나, 정보를 기반으로 서로의 네트워크망을 구성하도록 하는 시스템입니다.<br/>
-이는 기존 아날로그 방식의 소통의 시간적, 공간적 제약을 뚫어내는 소통 방식으로, 상호간의 네트워크 망을 넓히는 것에 기여합니다.<br/>
+이는 기존 아날로그 방식 소통의 시간적, 공간적 제약을 뚫어내는 소통 방식으로, 상호간의 네트워크 망을 넓히는 것에 기여합니다.<br/>
 
 📌 이 프로젝트는 [Track1: AI Agent 개발 <K intelligence 해커톤 2025>](https://dacon.io/competitions/official/236553/overview/description)의 규칙을 준수했으며, 관련 모델을 활용해 서비스를 만들었습니다.
 
@@ -80,3 +80,44 @@ LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 �
 <br/><br/><br/>
 
 ## 서비스 실행 가이드라인
+
+터미널에서 다음 명령어를 실행하여 간단하게 실험해볼 수 있습니다!
+
+```python
+streamlit run main.py
+```
+
+이후, 다음과 같은 문구가 터미널에 나타나면 성공적으로 작업을 마친 것입니다.
+<img width="1452" height="249" alt="image" src="https://github.com/user-attachments/assets/d0fbf0e7-3fc1-4e4d-9bcc-287fd70ec23a" />
+
+
+<br/><br/><br/>
+
+## 📽️ Project Slides
+<details>
+  <summary>여기를 클릭하여 슬라이드를 확인하세요!</summary>
+  <p align="center">
+    <a href="https://www.canva.com/design/DAGxmiVe42Y/EvFHh2YEhw-YAZhYEEYcdg/edit?utm_content=DAGxmiVe42Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗 PPT 원본 링크</a>
+  </p>
+  <br />
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/1.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/2.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/3.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/4.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/5.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/6.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/7.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/8.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/9.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/10.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/11.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/12.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/13.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/14.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/15.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/16.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/17.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/18.jpg" width="100%">
+  <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/19.jpg" width="100%">
+  <br />
+</details>
