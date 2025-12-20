@@ -88,6 +88,9 @@ streamlit run main.py
 ```
 
 이후, 다음과 같은 문구가 터미널에 나타나면 성공적으로 작업을 마친 것입니다.
+
+<br/>
+
 <img width="1452" height="249" alt="image" src="https://github.com/user-attachments/assets/d0fbf0e7-3fc1-4e4d-9bcc-287fd70ec23a" />
 
 
