@@ -86,6 +86,9 @@ LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 �
 ## 📽️ Project Slides
 <details>
   <summary>여기를 클릭하여 슬라이드를 확인하세요!</summary>
+  <p align="center">
+    <a href="https://www.canva.com/design/DAGxmiVe42Y/EvFHh2YEhw-YAZhYEEYcdg/edit?utm_content=DAGxmiVe42Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗 PPT 원본 링크</a>
+  </p>
   <br />
   <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/1.jpg" width="100%">
   <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/2.jpg" width="100%">
@@ -107,7 +110,4 @@ LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 �
   <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/18.jpg" width="100%">
   <img src="https://github.com/chiyeon01/Routing_Network_System/blob/5978c7118a01974a21cf9593127bdd53b9908b8e/ppt_Images/19.jpg" width="100%">
   <br />
-  <p align="center">
-    <a href="https://www.canva.com/design/DAGxmiVe42Y/EvFHh2YEhw-YAZhYEEYcdg/edit?utm_content=DAGxmiVe42Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗 PPT 원본 링크</a>
-  </p>
 </details>
