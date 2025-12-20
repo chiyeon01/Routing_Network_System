@@ -80,3 +80,19 @@ LLM 기술이 발전하며, ***환각 현상***을 해결하기 위한 많은 �
 <br/><br/><br/>
 
 ## 서비스 실행 가이드라인
+
+<br/><br/><br/>
+
+## 📽️ Project Slides
+<details>
+  <summary>여기를 클릭하여 슬라이드를 확인하세요!</summary>
+  
+  <br />
+  <img src="슬라이드1_경로" width="100%">
+  <img src="슬라이드2_경로" width="100%">
+  <img src="슬라이드3_경로" width="100%">
+  <br />
+  <p align="center">
+    <a href="https://www.canva.com/design/DAGxmiVe42Y/EvFHh2YEhw-YAZhYEEYcdg/edit?utm_content=DAGxmiVe42Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗 Canva에서 고화질로 보기</a>
+  </p>
+</details>
